@@ -1,0 +1,13 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+.piroshatter{
+    background-color: red;
+}
+
+td:nth-child(n+3){
+    color:violet;
+}
